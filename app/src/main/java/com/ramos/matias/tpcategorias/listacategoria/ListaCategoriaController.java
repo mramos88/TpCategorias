@@ -4,12 +4,14 @@ import android.app.Activity;
 import android.content.Intent;
 import android.view.View;
 
+import com.ramos.matias.tpcategorias.categoria.CategoriaActivity;
+
 /**
  * Created by matias on 21/08/2016.
  */
-public class CategoriaController implements View.OnClickListener {
+public class ListaCategoriaController implements View.OnClickListener {
     Activity activity;
-    public CategoriaController(Activity activity){
+    public ListaCategoriaController(Activity activity){
         this.activity = activity;
     }
 

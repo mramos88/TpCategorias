@@ -28,7 +28,7 @@ public class ListaCategoriaActivity extends AppCompatActivity {
 
         rv = (RecyclerView)findViewById(R.id.rv);
 
-        CategoriaController categoriaController = new CategoriaController(this);
+        ListaCategoriaController categoriaController = new ListaCategoriaController(this);
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(categoriaController);
 
