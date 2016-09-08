@@ -31,10 +31,10 @@ public class CategoriaView {
 
 
     public  CategoriaView(CategoriaActivity a, CategoriaController controller){
-        btnCamara = (ImageButton)a.findViewById(R.id.btnCamara);
-        btnCamara.setOnClickListener(controller);
-        this.imagenTomada = (ImageView) a.findViewById(R.id.imgTomada);
-        this.a=a;
+        //btnCamara = (ImageButton)a.findViewById(R.id.btnCamara);
+        //btnCamara.setOnClickListener(controller);
+        //this.imagenTomada = (ImageView) a.findViewById(R.id.imgTomada);
+        //this.a=a;
 
     }
 

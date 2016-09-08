@@ -1,0 +1,7 @@
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ramos\matias\tpcategorias\R$styleable$override.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ramos\matias\tpcategorias\listacategoria\ListaCategoriaActivity$override.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$style$override.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ramos\matias\tpcategorias\R$style$override.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ramos\matias\tpcategorias\R$override.class
+CHANGED,F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$style$override.class

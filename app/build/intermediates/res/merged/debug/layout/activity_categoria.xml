@@ -8,14 +8,15 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.ramos.matias.tpcategorias.listacategoria.CategoriaActivity">
+    tools:context="com.ramos.matias.tpcategorias.categoria.CategoriaActivity">
 
     <EditText
         android:hint="Nombre de la categoría"
+        tools:text="Comprar un i7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <EditText
-        android:hint="Texto"
+        tools:text="Aquí pondriamos el detalle de lo que queremos comprar o hacer. Siendo el texto libre."
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <ImageButton

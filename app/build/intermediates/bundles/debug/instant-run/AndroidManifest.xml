@@ -8,6 +8,12 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="23" />
 
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
@@ -15,15 +21,21 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.ramos.matias.tpcategorias.MainActivity" >
+        <activity
+            android:name="com.ramos.matias.tpcategorias.MainActivity"
+            android:theme="@style/CustomCategoriaStyle" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ramos.matias.tpcategorias.listacategoria.ListaCategoriaActivity" />
-        <activity android:name="com.ramos.matias.tpcategorias.listacategoria.CategoriaActivity" />
+        <activity
+            android:name="com.ramos.matias.tpcategorias.listacategoria.ListaCategoriaActivity"
+            android:label="Lista de Categorias" />
+        <activity
+            android:name="com.ramos.matias.tpcategorias.categoria.CategoriaActivity"
+            android:label="Categoría" />
     </application>
 
 </manifest>
