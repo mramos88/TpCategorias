@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_8637f830b292f15ee38a8953eeffcff1e2362b75\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d74f0eb47820727e5a254ec9a10bda560445cc35">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef4436abee2a0239b5311bc5aa1a540e7b8127bc\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_477cfc8bcbf117fc30681ac67d9d672ac98757b4\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_67bf85838b6dae066ca24925bb063af1b8ba9064\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e95b1ecc801b6a0dd1e599cbb3c0120061c68dda">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d7c06facb9f86a8d909d6b5437f39a9dbc26aecf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lkdml\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fb81682a9b90c8f6a4aadfc1d21c5f5681199e92\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5495b171c0777f341361d993927f5588689902db\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_a68e295285b1a56bed6eff8d38e304c4ffdaac2b\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_2450d2b28fb3d4d9ea541ed579e9b5b8688664d9\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_91f095296bd1838b93afa2cfada71c188fd6e049\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppDojo\android\TpCategoria\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AppDojo\android\TpCategoria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ec917895af0044ccb55b97a1f230189943d6bb5e\classes.dex" />
+    </item>
+
+</items>
